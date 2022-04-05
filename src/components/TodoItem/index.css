@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.todo-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.button {
+  background-color: #ffffff;
+  border-color: #ff0b37;
+  border-width: 2px;
+  border-radius: 4px;
+  color: #ff0b37;
+  cursor: pointer;
+}
